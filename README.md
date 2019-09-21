@@ -1,2 +1,5 @@
 # fizzbuzz2
-fizzbuzz
+
+fizzbuzz practice #wu2019
+
+Author : Sirirat Wichityaem
